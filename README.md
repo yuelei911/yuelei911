@@ -55,9 +55,9 @@ I am a PhD student in psychology at Nanjing Normal University, working on **open
 
 ## 科普写作 / Popular Science
 
-- [研究敬畏的趣味方法 / Fun Methods for Studying Awe](https://yuelei.netlify.app/popular-science/awe-research-methods/) (2025)
-- [重新认识弗洛伊德 / Rediscovering Freud](https://yuelei.netlify.app/popular-science/freud-revisited/) (2026)
-- [有一种瘾叫运动成瘾 / There Is an Addiction Called Exercise Addiction](https://yuelei.netlify.app/popular-science/exercise-addiction/) (2026)
+- [有一种瘾叫运动成瘾](https://yuelei.netlify.app/popular-science/exercise-addiction/) (2026)
+- [重新认识弗洛伊德](https://yuelei.netlify.app/popular-science/freud-revisited/) (2026)
+- [研究敬畏的趣味方法](https://yuelei.netlify.app/popular-science/awe-research-methods/) (2025)
 
 ## 联系我 / Contact
 
