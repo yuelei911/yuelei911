@@ -6,6 +6,7 @@
 南京师范大学 · Nanjing Normal University
 
 开放科学 · 元科学 · 样本代表性 · 物质主义
+
 Open Science · Metascience · Sample representativeness · Materialism
 
 
