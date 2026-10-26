@@ -6,11 +6,10 @@
 <i>“科学发展需要有人至无人之境，也需要有人停下来，回顾来时之路。”</i>
 </div>
 
-**南京师范大学心理学博士生 · PhD student in Psychology, Nanjing Normal University**  
+**南京师范大学心理学博士生 · PhD student in Psychology, Nanjing Normal University**\  
 
 
-开放科学 · 元科学 · 样本代表性 
-Open Science · Metascience · Sample representativeness 
+开放科学(Open Science); 元科学(Metascience); 样本代表性(Sample representativeness ) 
 
 
 </div>
@@ -26,7 +25,7 @@ I am Yue Lei, a PhD student in Psychology at Nanjing Normal University. My prima
 
 ## 代表性成果 / Selected Publications
 
-- **Yue, L.**, Zhang, W.-W., Wang, C.-X., Zuo, X.-N., & Hu, C.-P. (in press). Profiling the Chinese participants in psychological science: Non-WEIRD but not representative. *Advances in Methods and Practices in Psychological Science*. [Preprint](https://osf.io/preprints/psyarxiv/j8xgf)
+- **Yue, L.**, Zhang, W.-W., Wang, C.-X., Zuo, X.-N., & Hu, C.-P. (in press). Profiling the Chinese participants in psychological science: Non-WEIRD but not representative. *Advances in Methods and Practices in Psychological Science*. [PsyArXiv](https://osf.io/preprints/psyarxiv/j8xgf)
 - **Yue, L.**, Zuo, X.-N., & Hu, C.-P. (2026).Grassroots pathways in open science practice: Lessons from psychological science and brain science (in Chinese). [ChinaXiv](https://chinaxiv.org/abs/202605.00198)
 - **Yue, L.**, Zeng, X.-L., & Li, J. (2024). The effect of materialism on unethical behaviour: The mediating role of self-control. *Asian Journal of Social Psychology, 27*, 844–855. [https://doi.org/10.1111/ajsp.12642](https://doi.org/10.1111/ajsp.12642)
 - Li, J., Wu, X., **Yue, L.**, Zeng, X., & Fang, Q. (2022). The impact of materialism on green consumption: Promotion or inhibition?(in Chinese) *Advances in Psychological Science, 30*(6), 1191–1204. [https://doi.org/10.3724/SP.J.1042.2022.01191](https://doi.org/10.3724/SP.J.1042.2022.01191)
