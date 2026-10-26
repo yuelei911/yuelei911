@@ -25,10 +25,6 @@ Open Science · Metascience · Sample representativeness
 
 I am a PhD student in psychology at Nanjing Normal University, working on **open science** and **metascience** in psychology. Trained in personality and social psychology at Central China Normal University, I studied **materialistic values** during my master's. Since 2021, my interests have shifted toward the science of science—especially reproducibility, sample representativeness, and improving research practices in psychology.
 
-> 科学发展需要有人至无人之境，也需要有人停下来，回顾来时之路，思考当前科学发展的问题。
->
-> *Science needs explorers—and also people who pause to look back and reflect on how science is developing.*
-
 ## 研究兴趣 / Research Interests
 
 - 开放科学 / Open science
