@@ -7,7 +7,7 @@
 </div>
 
 
-**南京师范大学心理学博士生 · PhD student in Psychology, Nanjing Normal University**\  
+南京师范大学心理学博士生 · PhD student in Psychology, Nanjing Normal University
 
 
 开放科学(Open Science); 元科学(Metascience); 样本代表性(Sample representativeness ) 
