@@ -5,10 +5,9 @@
 **心理学博士生 · PhD Student in Psychology**  
 南京师范大学 · Nanjing Normal University
 
-开放科学 · 元科学 · 心理测量  
-Open Science · Metascience · Psychological Measurement
+开放科学 · 元科学 · 样本代表性 · 物质主义
+Open Science · Metascience · Sample representativeness · Materialism
 
-[个人主页 Website](https://yuelei.netlify.app/) · [ORCID](https://orcid.org/0000-0002-1077-5892) · [Email](mailto:yniannian911@outlook.com) · [GitHub](https://github.com/yuelei911)
 
 </div>
 
@@ -16,7 +15,7 @@ Open Science · Metascience · Psychological Measurement
 
 ## 关于我 / About Me
 
-我是岳磊，南京师范大学心理学博士生，关注心理学中的**开放科学（open science）**与**元科学（metascience）**。我于 2015 年进入心理学，硕士阶段在华中师范大学研究**物质主义价值观**；从 2021 年起，我的研究兴趣逐渐转向科学学，尤其关注心理学研究的可重复性、样本代表性与研究实践的改进。
+我是岳磊，南京师范大学心理学在读博士生，关注心理学中的**开放科学（open science）**与**元科学（metascience）**。我于 2015 年进入心理学，硕士阶段在华中师范大学研究**物质主义价值观**；从 2021 年起，我的研究兴趣逐渐转向科学学，主要关注心理学研究实践的改进，目前研究的落脚点为样本代表性。
 
 I am a PhD student in psychology at Nanjing Normal University, working on **open science** and **metascience** in psychology. Trained in personality and social psychology at Central China Normal University, I studied **materialistic values** during my master's. Since 2021, my interests have shifted toward the science of science—especially reproducibility, sample representativeness, and improving research practices in psychology.
 
@@ -28,9 +27,8 @@ I am a PhD student in psychology at Nanjing Normal University, working on **open
 
 - 开放科学 / Open science
 - 元科学 / Metascience
-- 心理学样本代表性 / Representativeness of psychological samples
-- 心理测量与统计 / Psychological measurement and statistics
-- 物质主义与价值观 / Materialism and values
+- 心理学样本代表性 / Sample representativeness
+- 物质主义 / Materialism
 
 ## 代表性成果 / Selected Publications
 
@@ -48,8 +46,6 @@ I am a PhD student in psychology at Nanjing Normal University, working on **open
   Profiling the representativeness of Chinese participants in psychological science.
 - [**academicCV**](https://github.com/yuelei911/academicCV) — 我的个人学术主页源码。  
   Source code of my personal academic website.
-- [**R4Psy**](https://github.com/yuelei911/R4Psy) — 心理学研究中的 R 语言课程材料。  
-  R for psychological research (course materials).
 
 ## 科普写作 / Popular Science
 
