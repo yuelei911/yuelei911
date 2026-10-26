@@ -2,12 +2,17 @@
 
 # 岳磊 · Yue Lei
 
+<div align="center">
+<i>“科学发展需要有人至无人之境，也需要有人停下来，回顾来时之路。”</i>
+</div>
+
 **心理学博士生 · PhD Student in Psychology**  
 南京师范大学 · Nanjing Normal University
 
-开放科学 · 元科学 · 样本代表性 · 物质主义
 
-Open Science · Metascience · Sample representativeness · Materialism
+开放科学 · 元科学 · 样本代表性 
+
+Open Science · Metascience · Sample representativeness 
 
 
 </div>
@@ -62,7 +67,3 @@ I am a PhD student in psychology at Nanjing Normal University, working on **open
 - GitHub: <https://github.com/yuelei911>
 
 ---
-
-<div align="center">
-<i>“科学发展需要有人至无人之境，也需要有人停下来，回顾来时之路。”</i>
-</div>
