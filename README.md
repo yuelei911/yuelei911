@@ -8,6 +8,7 @@
 
 **南京师范大学心理学博士生 · PhD Candidate in Psychology, Nanjing Normal University**  
 
+
 开放科学 · 元科学 · 样本代表性 
 Open Science · Metascience · Sample representativeness 
 
@@ -20,7 +21,7 @@ Open Science · Metascience · Sample representativeness
 
 我是岳磊，南京师范大学心理学在读博士生，目前主要研究方向是心理学中的**开放科学（open science）**与**元科学（metascience）**。我于 2015 年进入心理学，硕士阶段在华中师范大学研究**物质主义价值观**；从 2021 年起，我的研究兴趣逐渐转向心理学的研究方法及实践，当前我正在关注心理学人类样本的相关内容。
 
-I am a PhD student in psychology at Nanjing Normal University, working on **open science** and **metascience** in psychology. Trained in personality and social psychology at Central China Normal University, I studied **materialistic values** during my master's. Since 2021, my interests have shifted toward the science of science—especially reproducibility, sample representativeness, and improving research practices in psychology.
+I am Yue Lei, a PhD students in Psychology at Nanjing Normal University. My primary research interests lie in **open science** and **metascience** within psychology. I embarked on my journey in psychology in 2015. During my master’s studies at Central China Normal University, I researched **materialism values**. Since 2021, my research focus has gradually shifted toward research methodology and research practices in psychology. My current work centers on human participant samples in psychological research.
 
 
 ## 代表性成果 / Selected Publications
@@ -35,7 +36,8 @@ I am a PhD student in psychology at Nanjing Normal University, working on **open
 
 ## 开源项目 / Open Projects
 
-- [**chin-subj**](https://github.com/yuelei911/chin-subj) —  Profiling the representativeness of Chinese participants in psychological science. Stage 2 Registered Report received recommended by [PCI-RR](https://doi.org/10.24072/pci.rr.101701)
+- [**chin-subj**](https://github.com/yuelei911/chin-subj) —  Profiling the Chinese 
+Participants in Psychological Science: Non-WEIRD but Not Representative. Stage 2 Registered Report received recommended by [PCI-RR](https://doi.org/10.24072/pci.rr.101701)
  
 
 
@@ -50,6 +52,4 @@ I am a PhD student in psychology at Nanjing Normal University, working on **open
 - 个人主页 / Website: <https://yuelei.netlify.app/>
 - Email: <yniannian911@outlook.com>
 - ORCID: <https://orcid.org/0000-0002-1077-5892>
-- OSF: <https://github.com/yuelei911>
-
 ---
